@@ -8,7 +8,7 @@ Node.js (v14.x or later)
 npm (v6.x or later) or yarn (v1.x or later)
 MongoDB (local or cloud instance)
 
-Clone the Repository : git clone https://github.com/your-repo/todo-list-mern-app.git
+Clone the Repository : git clone https://github.com/siddhantvats09/TO_DO_MERN_APP.git
 cd todo-list-mern-app
 
 Set Up the Backend : cd backendtodo , run npm install
